@@ -1,0 +1,6 @@
+{
+  "name": "CampusDesk - Student Management System",
+  "description": "A modern academic ERP and Student Management System featuring a monochrome dark Claymorphism interface for student records, attendance, and assignment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
